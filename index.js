@@ -1,4 +1,4 @@
-const cpf = "07505046179";
+const cpf = "";
 
 
 function validaCPF(cpf){
